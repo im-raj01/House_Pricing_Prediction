@@ -1,4 +1,4 @@
-# Advanced House Pricing Prediction
+# House Pricing Prediction
 
 ## Overview
 This project focuses on building an advanced house pricing prediction model using comprehensive data analysis techniques. The model leverages various data preprocessing, feature engineering, and machine learning techniques to ensure accurate predictions. Key steps and methodologies involved are detailed below:
